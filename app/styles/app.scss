@@ -1,0 +1,29 @@
+$space-larege: 2.5rem;
+$title-color: #555;
+.page-title {
+	color: $title-color;
+	margin-top: $space-larege;
+	margin-bottom: $space-larege;
+}
+
+input [type=search] {
+	box-shadow: none;
+}
+.share-icons {
+  align-content: center;
+}
+.right-side{
+  float: right;
+}
+.warm {
+font-weight: bold;
+color: #E34400;
+}
+.cold {
+font-weight: bold;
+color: #009FE3;
+}
+.hot {
+font-weight: bold;
+color: #A60303;
+}
